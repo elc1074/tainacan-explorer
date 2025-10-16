@@ -23,4 +23,5 @@ Explorando alternativas de visualização de obras do Acervo Artístico da UFSM,
 - Acervo Artístico da UFSM: https://www.ufsm.br/pro-reitorias/pre/cca/divisao-de-museus-ufsm/acervo-artistico-ufsm
 - API do Tainacan: https://redocly.github.io/redoc/?url=https://github.com/tainacan/tainacan-wiki/raw/master/dev/openapi.json
 - Tainacan: https://tainacan.org
-
+- Tainacan Discourse Group (fórum/grupo de usuários): https://tainacan.discourse.group/ 
+- Post no fórum de usuários sobre caso de uso da API: https://tainacan.discourse.group/t/harvest-from-other-tainacan/1879/2
